@@ -4,6 +4,7 @@
 class PrimeFactor {
 public:
 	std::vector<int> of(int number) {
-		return {};
+		std::vector<int> result = {};
+		return result;
 	}
 };
