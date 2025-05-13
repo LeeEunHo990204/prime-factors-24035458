@@ -6,4 +6,7 @@ using namespace testing;
 TEST(a, b) {
 	PrimeFactor p;
 	EXPECT_EQ(1, 1);
+	EXPECT_EQ(1, 1);
+	EXPECT_EQ(1, 1);
+	EXPECT_EQ(1, 1);
 }
